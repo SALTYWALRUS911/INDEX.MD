@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SALTY WALRUS WEBPAGE
 
 You can use the [editor on GitHub](https://github.com/SALTYWALRUS911/INDEX.MD/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 THIS IS HEADER ONE
+## Header 2 THIS IS HEADER 2  
+### Header 3 THIS IS HEADER 3
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
+3. I ADDED THIS NUMBER
+4. **THIS IS BOLD**
+5. _THIS IS ITALIC_
 
 **Bold** and _Italic_ and `Code` text
 
